@@ -10,7 +10,7 @@
 
 ➡️ basic deep knowledge about Javascript.
 
-# featch
+# features
 ➡️ Add new note
 
 ➡️ Save note
